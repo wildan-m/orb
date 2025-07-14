@@ -1,0 +1,28 @@
+.orb-badge {
+  display: inline-flex;
+  align-items: center;
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  padding: 4px 8px;
+  margin: 8px 0;
+  font-size: 14px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.orb-badge img {
+  width: 20px;
+  height: 20px;
+  margin-right: 6px;
+}
+
+.orb-tag {
+  font-weight: 600;
+  margin-right: 8px;
+  text-transform: capitalize;
+}
+
+.orb-score {
+  color: #666;
+  font-size: 12px;
+}
